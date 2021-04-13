@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "doctors appointment",
+      "day": "March 1st at 2:45pm",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Grocery Shopping",
+      "day": "April 3rd at 4:00pm",
+      "reminder": false
+    },
+    {
+      "id": 3,
+      "text": "Ramadan Begins",
+      "day": "April 13th at 6:15am",
+      "reminder": true
+    },
+    {
+      "id": 375,
+      "text": "Go to the pharmacy",
+      "day": "April 23th at 3:00pm",
+      "reminder": false
+    }
+  ]
+}
