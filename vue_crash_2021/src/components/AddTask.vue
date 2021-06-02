@@ -27,8 +27,8 @@ export default {
     name:'AddTask',
     data(){
         return{
-            text:'Test',
-            day: 'jkkk',
+            text:'',
+            day: '',
             reminder:false
         }
     },
@@ -40,7 +40,7 @@ export default {
                 return
             }
             const newTask = {
-                id: Math.floor(Math.random()*1000),
+                //id: Math.floor(Math.random()*1000),
                 text: this.text,
                 day: this.day,
                 reminder: this.reminder
